@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/SmL2WWF/trophy.png",
+        "title": "Award winning agency",
+        "detail": "Tincidunt elit magnis nulla facilisis sags",
+        "describe": "Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/R3mkpJg/medal.png",
+        "title": "Best quality work",
+        "detail": "Tincidunt elit magnis nulla facilisis sags",
+        "describe": "Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/8sCTGvR/satisfy.png",
+        "title": "Satisfaction guarantee",
+        "detail": "Tincidunt elit magnis nulla facilisis sags",
+        "describe": "Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod."
+    }
+]
